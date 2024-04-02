@@ -1,0 +1,21 @@
+#block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:300px;
+   
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    margin-right: 600px;
+    padding:100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    border: 1px  black;
+    background-color:dodgerblue;
+    border-radius:2cqw;
+    font-family: Copperplate, Papyrus, fantasy;
+    border: 5px solid rgb(127, 189, 217);
+
+
+}
